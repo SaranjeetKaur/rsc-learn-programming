@@ -1,2 +1,3 @@
-# rsc-learn-programming
-Some resources for learning programming during research software camp 
+# About this repository
+
+This repository includes resources for learning programming being used by Sadiq Mobeen and Saranjeet Kaur during the Research Software Camp from April-June 2023.
